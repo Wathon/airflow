@@ -1,0 +1,37 @@
+[2025-02-17T08:55:47.933+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-02-17T08:55:47.954+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: my_first_trino_dag.task_1 manual__2025-02-17T08:55:47.037039+00:00 [queued]>
+[2025-02-17T08:55:47.962+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: my_first_trino_dag.task_1 manual__2025-02-17T08:55:47.037039+00:00 [queued]>
+[2025-02-17T08:55:47.962+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-02-17T08:55:47.973+0000] {taskinstance.py:2330} INFO - Executing <Task(TrinoOperator): task_1> on 2025-02-17 08:55:47.037039+00:00
+[2025-02-17T08:55:47.979+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=2132) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-02-17T08:55:47.980+0000] {standard_task_runner.py:63} INFO - Started process 2133 to run task
+[2025-02-17T08:55:47.981+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'my_first_trino_dag', 'task_1', 'manual__2025-02-17T08:55:47.037039+00:00', '--job-id', '19', '--raw', '--subdir', 'DAGS_FOLDER/my_first_trino_dag.py', '--cfg-path', '/tmp/tmpgr1qj539']
+[2025-02-17T08:55:47.982+0000] {standard_task_runner.py:91} INFO - Job 19: Subtask task_1
+[2025-02-17T08:55:48.019+0000] {task_command.py:426} INFO - Running <TaskInstance: my_first_trino_dag.task_1 manual__2025-02-17T08:55:47.037039+00:00 [running]> on host 800d9ac51cc2
+[2025-02-17T08:55:48.095+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='my_first_trino_dag' AIRFLOW_CTX_TASK_ID='task_1' AIRFLOW_CTX_EXECUTION_DATE='2025-02-17T08:55:47.037039+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-02-17T08:55:47.037039+00:00'
+[2025-02-17T08:55:48.095+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-02-17T08:55:48.106+0000] {trino_operator.py:39} INFO - Creating Trino connection
+[2025-02-17T08:55:48.107+0000] {trino_operator.py:48} INFO - Executing single sql statement
+[2025-02-17T08:55:48.115+0000] {base.py:84} INFO - Using connection ID 'trino_connection' for task execution.
+[2025-02-17T08:55:48.123+0000] {base.py:84} INFO - Using connection ID 'trino_connection' for task execution.
+[2025-02-17T08:55:48.126+0000] {unix.py:142} WARNING - /etc/timezone is deprecated on Debian, and no longer reliable. Ignoring.
+[2025-02-17T08:55:48.127+0000] {sql.py:511} INFO - Running statement: select count(1) from nessie.edw.dim_account, parameters: None
+[2025-02-17T08:55:48.484+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/providers/common/sql/hooks/sql.py:470: DeprecationWarning: Import of fetch_one_handler from the '***.providers.common.sql.hooks' module is deprecated and will
+be removed in the future. Please import it from '***.providers.common.sql.hooks.handlers'.
+  result = self._make_common_data_structure(handler(cur))
+
+[2025-02-17T08:55:48.493+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/providers/common/sql/hooks/sql.py:471: DeprecationWarning: Import of return_single_query_results from the '***.providers.common.sql.hooks' module is deprecated and will
+be removed in the future. Please import it from '***.providers.common.sql.hooks.handlers'.
+  if return_single_query_results(sql, return_last, split_statements):
+
+[2025-02-17T08:55:48.494+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/providers/common/sql/hooks/sql.py:486: DeprecationWarning: Import of return_single_query_results from the '***.providers.common.sql.hooks' module is deprecated and will
+be removed in the future. Please import it from '***.providers.common.sql.hooks.handlers'.
+  if return_single_query_results(sql, return_last, split_statements):
+
+[2025-02-17T08:55:48.494+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-02-17T08:55:48.514+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=my_first_trino_dag, task_id=task_1, run_id=manual__2025-02-17T08:55:47.037039+00:00, execution_date=20250217T085547, start_date=20250217T085547, end_date=20250217T085548
+[2025-02-17T08:55:48.555+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-02-17T08:55:48.579+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-02-17T08:55:48.581+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
