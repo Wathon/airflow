@@ -1,0 +1,5 @@
+pynessie
+psycopg2-binary
+apache-airflow[celery,postgres,redis]
+pyiceberg
+polars

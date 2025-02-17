@@ -1,0 +1,455 @@
+[2025-02-15T11:20:25.383+0000] {processor.py:161} INFO - Started process (PID=2275) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:20:25.385+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:20:25.389+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:20:25.388+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:20:26.347+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:20:26.375+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:20:26.374+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:20:26.388+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:20:26.388+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:20:26.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 1.042 seconds
+[2025-02-15T11:20:56.539+0000] {processor.py:161} INFO - Started process (PID=2284) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:20:56.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:20:56.541+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:20:56.541+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:20:57.245+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:20:57.283+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:20:57.283+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:20:57.294+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:20:57.294+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:20:57.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.781 seconds
+[2025-02-15T11:21:27.498+0000] {processor.py:161} INFO - Started process (PID=2293) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:21:27.499+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:21:27.502+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:21:27.501+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:21:28.242+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:21:28.271+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:21:28.270+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:21:28.285+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:21:28.285+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:21:28.312+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.821 seconds
+[2025-02-15T11:21:58.489+0000] {processor.py:161} INFO - Started process (PID=2302) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:21:58.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:21:58.494+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:21:58.493+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:21:59.799+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:21:59.839+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:21:59.838+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:21:59.861+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:21:59.861+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:21:59.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 1.420 seconds
+[2025-02-15T11:22:30.033+0000] {processor.py:161} INFO - Started process (PID=2311) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:22:30.034+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:22:30.036+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:22:30.036+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:22:30.730+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:22:30.760+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:22:30.760+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:22:30.776+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:22:30.776+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:22:30.798+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.771 seconds
+[2025-02-15T11:23:00.991+0000] {processor.py:161} INFO - Started process (PID=2320) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:23:00.994+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:23:00.996+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:23:00.996+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:23:01.657+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:23:01.682+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:23:01.681+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:23:01.691+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:23:01.691+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:23:01.712+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.727 seconds
+[2025-02-15T11:23:31.892+0000] {processor.py:161} INFO - Started process (PID=2329) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:23:31.892+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:23:31.895+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:23:31.894+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:23:32.552+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:23:32.577+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:23:32.576+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:23:32.591+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:23:32.591+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:23:32.614+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.730 seconds
+[2025-02-15T11:24:02.779+0000] {processor.py:161} INFO - Started process (PID=2338) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:24:02.782+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:24:02.784+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:24:02.784+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:24:03.515+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:24:03.540+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:24:03.539+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:24:03.549+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:24:03.549+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:24:03.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.797 seconds
+[2025-02-15T11:24:33.689+0000] {processor.py:161} INFO - Started process (PID=2347) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:24:33.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:24:33.694+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:24:33.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:24:34.417+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:24:34.449+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:24:34.448+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:24:34.461+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:24:34.461+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:24:34.484+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.808 seconds
+[2025-02-15T11:25:04.694+0000] {processor.py:161} INFO - Started process (PID=2356) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:25:04.696+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:25:04.697+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:25:04.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:25:05.428+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:25:05.453+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:25:05.453+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:25:05.465+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:25:05.465+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:25:05.485+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.798 seconds
+[2025-02-15T11:25:35.700+0000] {processor.py:161} INFO - Started process (PID=2365) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:25:35.703+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:25:35.705+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:25:35.705+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:25:36.368+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:25:36.396+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:25:36.395+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:25:36.406+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:25:36.406+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:25:36.427+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.733 seconds
+[2025-02-15T11:26:06.608+0000] {processor.py:161} INFO - Started process (PID=2374) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:26:06.611+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:26:06.614+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:26:06.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:26:07.332+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:26:07.363+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:26:07.362+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:26:07.376+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:26:07.376+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:26:07.398+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.796 seconds
+[2025-02-15T11:26:37.577+0000] {processor.py:161} INFO - Started process (PID=2383) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:26:37.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:26:37.580+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:26:37.579+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:26:38.273+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:26:38.294+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:26:38.294+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:26:38.304+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:26:38.304+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:26:38.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.753 seconds
+[2025-02-15T11:27:08.537+0000] {processor.py:161} INFO - Started process (PID=2392) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:27:08.540+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:27:08.543+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:27:08.543+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:27:09.273+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:27:09.307+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:27:09.307+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:27:09.327+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:27:09.327+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:27:09.367+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.838 seconds
+[2025-02-15T11:27:39.587+0000] {processor.py:161} INFO - Started process (PID=2401) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:27:39.588+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:27:39.590+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:27:39.590+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:27:40.293+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:27:40.316+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:27:40.316+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:27:40.327+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:27:40.326+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:27:40.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.774 seconds
+[2025-02-15T11:28:10.523+0000] {processor.py:161} INFO - Started process (PID=2410) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:28:10.526+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:28:10.528+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:28:10.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:28:11.203+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:28:11.236+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:28:11.235+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:28:11.252+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:28:11.251+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:28:11.275+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.758 seconds
+[2025-02-15T11:28:41.457+0000] {processor.py:161} INFO - Started process (PID=2419) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:28:41.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:28:41.462+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:28:41.461+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:28:42.121+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:28:42.149+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:28:42.149+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:28:42.160+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:28:42.160+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:28:42.181+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.731 seconds
+[2025-02-15T11:29:12.384+0000] {processor.py:161} INFO - Started process (PID=2428) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:29:12.387+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:29:12.389+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:29:12.388+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:29:13.076+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:29:13.100+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:29:13.099+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:29:13.113+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:29:13.112+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:29:13.133+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.757 seconds
+[2025-02-15T11:29:43.329+0000] {processor.py:161} INFO - Started process (PID=2437) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:29:43.332+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:29:43.333+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:29:43.333+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:29:44.012+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:29:44.040+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:29:44.039+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:29:44.052+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:29:44.051+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:29:44.076+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.757 seconds
+[2025-02-15T11:30:14.264+0000] {processor.py:161} INFO - Started process (PID=2446) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:30:14.266+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:30:14.268+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:30:14.268+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:30:14.941+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:30:14.963+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:30:14.963+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:30:14.973+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:30:14.973+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:30:14.992+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.734 seconds
+[2025-02-15T11:30:45.114+0000] {processor.py:161} INFO - Started process (PID=2455) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:30:45.114+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:30:45.116+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:30:45.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:30:45.824+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:30:45.852+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:30:45.851+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:30:45.864+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:30:45.864+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:30:45.887+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.781 seconds
+[2025-02-15T11:31:16.085+0000] {processor.py:161} INFO - Started process (PID=2465) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:31:16.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:31:16.089+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:31:16.089+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:31:16.765+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:31:16.794+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:31:16.793+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:31:16.809+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:31:16.808+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:31:16.830+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.752 seconds
+[2025-02-15T11:31:47.022+0000] {processor.py:161} INFO - Started process (PID=2474) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:31:47.023+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:31:47.024+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:31:47.024+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:31:47.854+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:31:47.887+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:31:47.886+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:31:47.901+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:31:47.901+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:31:47.929+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.917 seconds
+[2025-02-15T11:32:18.137+0000] {processor.py:161} INFO - Started process (PID=2483) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:32:18.138+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:32:18.142+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:32:18.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:32:19.017+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:32:19.047+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:32:19.046+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:32:19.059+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:32:19.059+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:32:19.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.962 seconds
+[2025-02-15T11:32:49.290+0000] {processor.py:161} INFO - Started process (PID=2492) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:32:49.292+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:32:49.294+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:32:49.294+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:32:49.964+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:32:49.988+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:32:49.988+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:32:49.999+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:32:49.998+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:32:50.018+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.735 seconds
+[2025-02-15T11:33:20.222+0000] {processor.py:161} INFO - Started process (PID=2501) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:33:20.225+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:33:20.228+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:33:20.227+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:33:20.921+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:33:20.948+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:33:20.947+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:33:20.959+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:33:20.959+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:33:20.982+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.771 seconds
+[2025-02-15T11:33:51.139+0000] {processor.py:161} INFO - Started process (PID=2510) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:33:51.140+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:33:51.142+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:33:51.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:33:51.829+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:33:51.856+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:33:51.856+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:33:51.873+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:33:51.872+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:33:51.895+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.763 seconds
+[2025-02-15T11:34:22.076+0000] {processor.py:161} INFO - Started process (PID=2519) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:34:22.079+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:34:22.081+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:34:22.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:34:22.740+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:34:22.766+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:34:22.765+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:34:22.777+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:34:22.777+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:34:22.799+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.729 seconds
+[2025-02-15T11:34:52.973+0000] {processor.py:161} INFO - Started process (PID=2528) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:34:52.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:34:52.978+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:34:52.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:34:53.669+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:34:53.698+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:34:53.697+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:34:53.713+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:34:53.713+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:34:53.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.769 seconds
+[2025-02-15T11:35:23.894+0000] {processor.py:161} INFO - Started process (PID=2537) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:35:23.897+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:35:23.899+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:35:23.899+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:35:24.584+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:35:24.618+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:35:24.617+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:35:24.635+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:35:24.634+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:35:24.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.776 seconds
+[2025-02-15T11:35:54.743+0000] {processor.py:161} INFO - Started process (PID=2546) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:35:54.745+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:35:54.747+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:35:54.747+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:35:55.468+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:35:55.504+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:35:55.503+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:35:55.525+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:35:55.524+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:35:55.559+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.824 seconds
+[2025-02-15T11:36:25.756+0000] {processor.py:161} INFO - Started process (PID=2555) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:36:25.759+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:36:25.761+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:36:25.761+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:36:26.487+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:36:26.510+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:36:26.509+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:36:26.520+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:36:26.520+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:36:26.541+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.795 seconds
+[2025-02-15T11:36:56.722+0000] {processor.py:161} INFO - Started process (PID=2564) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:36:56.724+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:36:56.726+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:36:56.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:36:57.381+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:36:57.407+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:36:57.407+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:36:57.421+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:36:57.421+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:36:57.441+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.726 seconds
+[2025-02-15T11:37:27.632+0000] {processor.py:161} INFO - Started process (PID=2573) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:37:27.633+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:37:27.634+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:37:27.634+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:37:28.376+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:37:28.410+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:37:28.408+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:37:28.420+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:37:28.420+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:37:28.436+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.812 seconds
+[2025-02-15T11:37:58.634+0000] {processor.py:161} INFO - Started process (PID=2582) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:37:58.635+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:37:58.637+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:37:58.637+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:37:59.313+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:37:59.346+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:37:59.346+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:37:59.360+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:37:59.360+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:37:59.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.757 seconds
+[2025-02-15T11:38:29.592+0000] {processor.py:161} INFO - Started process (PID=2591) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:38:29.596+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:38:29.599+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:38:29.598+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:38:30.262+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:38:30.289+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:38:30.288+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:38:30.302+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:38:30.301+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:38:30.324+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.743 seconds
+[2025-02-15T11:39:00.527+0000] {processor.py:161} INFO - Started process (PID=2600) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:39:00.528+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:39:00.530+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:39:00.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:39:01.234+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:39:01.263+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:39:01.262+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:39:01.276+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:39:01.276+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:39:01.300+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.783 seconds
+[2025-02-15T11:39:31.477+0000] {processor.py:161} INFO - Started process (PID=2609) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:39:31.479+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:39:31.481+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:39:31.481+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:39:32.257+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:39:32.281+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:39:32.280+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:39:32.291+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:39:32.291+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:39:32.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.848 seconds
+[2025-02-15T11:40:02.515+0000] {processor.py:161} INFO - Started process (PID=2618) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:40:02.516+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:40:02.518+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:40:02.518+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:40:03.345+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:40:03.378+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:40:03.377+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:40:03.392+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:40:03.392+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:40:03.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.904 seconds
+[2025-02-15T11:40:33.596+0000] {processor.py:161} INFO - Started process (PID=2627) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:40:33.599+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:40:33.601+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:40:33.601+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:40:34.272+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:40:34.302+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:40:34.301+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:40:34.318+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:40:34.317+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:40:34.345+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.756 seconds
+[2025-02-15T11:41:04.557+0000] {processor.py:161} INFO - Started process (PID=2636) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:41:04.559+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:41:04.562+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:41:04.561+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:41:05.280+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:41:05.307+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:41:05.306+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:41:05.319+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:41:05.318+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:41:05.346+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.801 seconds
+[2025-02-15T11:41:35.546+0000] {processor.py:161} INFO - Started process (PID=2645) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:41:35.549+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:41:35.550+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:41:35.550+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:41:36.186+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:41:36.220+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:41:36.219+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:41:36.235+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:41:36.235+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:41:36.257+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.717 seconds
+[2025-02-15T11:42:06.445+0000] {processor.py:161} INFO - Started process (PID=2654) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:42:06.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:42:06.448+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:42:06.447+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:42:07.086+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:42:07.110+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:42:07.109+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:42:07.122+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:42:07.122+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:42:07.144+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.706 seconds
+[2025-02-15T11:42:37.228+0000] {processor.py:161} INFO - Started process (PID=2663) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:42:37.229+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:42:37.230+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:42:37.230+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:42:37.913+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:42:37.944+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:42:37.943+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:42:37.960+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:42:37.959+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:42:37.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.760 seconds
+[2025-02-15T11:43:08.184+0000] {processor.py:161} INFO - Started process (PID=2672) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:43:08.187+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:43:08.189+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:43:08.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:43:08.840+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:43:08.866+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:43:08.865+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:43:08.881+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:43:08.880+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:43:08.899+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.722 seconds
+[2025-02-15T11:43:39.084+0000] {processor.py:161} INFO - Started process (PID=2681) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:43:39.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:43:39.087+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:43:39.087+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:43:39.803+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:43:39.824+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:43:39.824+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:43:39.834+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:43:39.833+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:43:39.850+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.773 seconds
+[2025-02-15T11:44:10.037+0000] {processor.py:161} INFO - Started process (PID=2690) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:44:10.039+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:44:10.042+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:44:10.041+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:44:10.781+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:44:10.805+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:44:10.804+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:44:10.817+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:44:10.816+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:44:10.838+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.809 seconds
+[2025-02-15T11:44:40.923+0000] {processor.py:161} INFO - Started process (PID=2699) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:44:40.924+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:44:40.926+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:44:40.926+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:44:41.642+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:44:41.664+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:44:41.663+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:44:41.674+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:44:41.673+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:44:41.692+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.777 seconds
+[2025-02-15T11:45:11.879+0000] {processor.py:161} INFO - Started process (PID=2708) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:45:11.880+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:45:11.881+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:45:11.881+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:45:12.547+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:45:12.576+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:45:12.576+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:45:12.591+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:45:12.591+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:45:12.621+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.749 seconds
+[2025-02-15T11:45:42.835+0000] {processor.py:161} INFO - Started process (PID=2717) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:45:42.838+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:45:42.840+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:45:42.839+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:45:43.503+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:45:43.524+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:45:43.524+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:45:43.535+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:45:43.535+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:45:43.552+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.722 seconds
+[2025-02-15T11:46:13.733+0000] {processor.py:161} INFO - Started process (PID=2726) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:46:13.734+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:46:13.736+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:46:13.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:46:14.375+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:46:14.403+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:46:14.402+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:46:14.416+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:46:14.416+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:46:14.439+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.715 seconds
+[2025-02-15T11:46:44.641+0000] {processor.py:161} INFO - Started process (PID=2735) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:46:44.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:46:44.646+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:46:44.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:46:45.302+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:46:45.326+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:46:45.325+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:46:45.336+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:46:45.336+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:46:45.353+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.721 seconds
+[2025-02-15T11:47:15.535+0000] {processor.py:161} INFO - Started process (PID=2743) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:47:15.536+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:47:15.538+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:47:15.538+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:47:16.212+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:47:16.245+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:47:16.244+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:47:16.261+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:47:16.260+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:47:16.283+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.757 seconds
+[2025-02-15T11:47:46.459+0000] {processor.py:161} INFO - Started process (PID=2752) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:47:46.462+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:47:46.465+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:47:46.464+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:47:47.205+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:47:47.230+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:47:47.230+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:47:47.241+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:47:47.241+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:47:47.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.814 seconds
+[2025-02-15T11:48:17.364+0000] {processor.py:161} INFO - Started process (PID=2761) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:48:17.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:48:17.366+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:48:17.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:48:18.052+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:48:18.080+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:48:18.079+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:48:18.093+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:48:18.093+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:48:18.116+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.761 seconds
+[2025-02-15T11:48:48.305+0000] {processor.py:161} INFO - Started process (PID=2770) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:48:48.308+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:48:48.311+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:48:48.310+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:48:49.008+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:48:49.033+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:48:49.032+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:48:49.044+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:48:49.044+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:48:49.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.767 seconds
+[2025-02-15T11:49:19.257+0000] {processor.py:161} INFO - Started process (PID=2779) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:49:19.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:49:19.259+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:49:19.259+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:49:19.891+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:49:19.918+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:49:19.918+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:49:19.930+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:49:19.929+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:49:19.950+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.700 seconds
+[2025-02-15T11:49:50.134+0000] {processor.py:161} INFO - Started process (PID=2788) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:49:50.136+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:49:50.139+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:49:50.138+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:49:50.825+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:49:50.850+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:49:50.849+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:49:50.863+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:49:50.863+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:49:50.884+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.758 seconds
+[2025-02-15T11:50:21.062+0000] {processor.py:161} INFO - Started process (PID=2797) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:50:21.063+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:50:21.065+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:50:21.065+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:50:21.709+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:50:21.733+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:50:21.733+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:50:21.744+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:50:21.744+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:50:21.765+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.711 seconds
+[2025-02-15T11:50:51.986+0000] {processor.py:161} INFO - Started process (PID=2806) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:50:51.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T11:50:51.990+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:50:51.990+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:50:52.933+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T11:50:52.970+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:50:52.969+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T11:50:52.990+0000] {logging_mixin.py:188} INFO - [2025-02-15T11:50:52.990+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T11:50:53.025+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 1.049 seconds
+[2025-02-15T13:48:11.361+0000] {processor.py:161} INFO - Started process (PID=2809) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:48:11.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T13:48:11.365+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:48:11.365+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:48:12.190+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:48:12.212+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:48:12.212+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T13:48:12.222+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:48:12.222+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T13:48:12.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.889 seconds
+[2025-02-15T13:48:42.448+0000] {processor.py:161} INFO - Started process (PID=2818) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:48:42.449+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T13:48:42.451+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:48:42.451+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:48:43.299+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:48:43.331+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:48:43.330+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T13:48:43.345+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:48:43.345+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T13:48:43.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.927 seconds
+[2025-02-15T13:49:13.568+0000] {processor.py:161} INFO - Started process (PID=2827) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:49:13.569+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T13:49:13.571+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:49:13.570+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:49:14.248+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:49:14.278+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:49:14.277+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T13:49:14.297+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:49:14.297+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T13:49:14.323+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.762 seconds
+[2025-02-15T13:49:44.530+0000] {processor.py:161} INFO - Started process (PID=2836) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:49:44.531+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T13:49:44.533+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:49:44.533+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:49:45.174+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:49:45.195+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:49:45.194+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T13:49:45.204+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:49:45.204+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T13:49:45.220+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.698 seconds
+[2025-02-15T13:50:15.406+0000] {processor.py:161} INFO - Started process (PID=2845) to work on /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:50:15.408+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/synapse_to_iceberg_dag.py for tasks to queue
+[2025-02-15T13:50:15.410+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:50:15.410+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:50:16.210+0000] {processor.py:840} INFO - DAG(s) 'synapse_to_iceberg_pipeline' retrieved from /opt/airflow/dags/synapse_to_iceberg_dag.py
+[2025-02-15T13:50:16.243+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:50:16.242+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-02-15T13:50:16.258+0000] {logging_mixin.py:188} INFO - [2025-02-15T13:50:16.257+0000] {dag.py:3954} INFO - Setting next_dagrun for synapse_to_iceberg_pipeline to None, run_after=None
+[2025-02-15T13:50:16.284+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/synapse_to_iceberg_dag.py took 0.887 seconds
